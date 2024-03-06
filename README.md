@@ -1,5 +1,7 @@
 # 3D Printed ESP32-S3 Steno Keyboard
 
+![Finished Keyboard](https://github.com/s-downs/esp-steno-kb/blob/main/Images/Finished%20Keyboard.jpg?raw=true)
+
 I wanted to look at learning steno and didn't have an NKRO keyboard, but what I did have was an ESP32 S3 devkit module and a 3D printer, so I ordered some Kailh Choc v1 switches and keycaps from Aliexpress and built one - Overall this project cost probably about £35 (~40 USD) and took a little under 2 days. I now have the "right" keyboard (if there is such a thing) to start with and actually used that 3D printer and soldering iron for a change!
 
 ## Required materials
